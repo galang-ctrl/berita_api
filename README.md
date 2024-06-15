@@ -1,5 +1,7 @@
 # info
 
+aplikasi berita sederhana, menggunakan news API Terima kasih.
+
 A new Flutter project.
 
 ## Getting Started
